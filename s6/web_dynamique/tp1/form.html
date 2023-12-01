@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8" />
+      <link rel="stylesheet" type="text/css" href="SMI/style.css" />
+      <script type = "text/javascript" src="SMI\JS.js"></script>
+
+   </head>
+
+   <body >
+
+
+      <div class="top">
+         <img src= 'SMI/images/fsdm.jpg' border = '0' hspace = '20' vspace = '20' align = 'left' />
+         <span class="top">SMI6</span><br />
+         Facult&eacute; des Sciences Dhar El Mahraz, F&egrave;s </div>
+
+
+      <h4>&nbsp;<span id="LaDate"></span> </h4>
+      <br />
+
+
+
+      <h1>Ajouter un étudiant</h1>
+      <hr />
+
+
+      <form id = "myForm" name = "myForm" action = "script.php" method = "post">
+
+         <pre>
+Entrez le code:              
+<input type="text" name="Code" value=""/> <span class="Err" id="ErrCode"> </span>
+
+
+Entrez le nom:
+<input  type="text"  name="Nom" value="" /> <span class="Err" id="ErrNom"> </span>
+
+Entrez le prénom:
+<input type="text" name="Prenom" value="" /> <span class="Err" id="ErrPrenom"> </span>
+
+Entrez la Note :
+<input type="text" name ="Note" value="" /> <span class="Err" id="ErrNote"> </span>
+<!-- Un seule nom pour la liste, chaque élément de la liste a une "Value" -->
+Filière:
+<select name = "Filiere">
+                <option  value =  "SMI" "selected">Sciences Mathématiques et Informatique</option>
+                <option  value =  "SMA"           >Sciences Mathématiques et Application</option>
+                <option  value =  "SMP"           >Sciences de la Matière Physique</option>
+                </select> <span class="Err"> </span>
+
+<input  type = 'submit'  value =  'Envoyer' /> <input  type = 'reset'  value =  'Annuler' />
+         </pre>
+      </form>
+      <br />
+      <hr />
+      <a href ="index.html">Acceuil</a> |
+      <a href ="liste.html">Liste de étudiants</a> |
+      <a href ="form.html">Ajouter un étudiant</a>
+      <br /><hr /><br />
+      <div class="bas">&copy; copyright: SMI6 2021<br />Facult&eacute; des Sciences Dhar El Mahraz</br>smi6@fsdm.usmba.ac.ma</div>
+   </body>
+</html>

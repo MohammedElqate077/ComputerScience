@@ -1,0 +1,12 @@
+   **ABOUT ME:
+
+MOAHMMED 
+
+   ** NOTE!!!:
+
+puisque c++ not platforme independent ,possible d'avoire des erreur de compilation
+
+cmd utilser pour la compilation : // linux arch
+
+g++ -lm -std=c++17 -ggdb *.cpp -o main && ./main
+

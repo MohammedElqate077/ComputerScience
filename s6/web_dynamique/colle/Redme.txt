@@ -1,0 +1,37 @@
+MOHAMMED EL QATE
+GP : 2
+CODE : 32807
+5/7/2022
+
+
+application gestion des etudiant and the administrator users using php,mysql,mvc,basic html,css,js;
+
+          ******    the data base info:
+db_name : SMI2022
+tables: // i now shoud use foring key & ( forms of mcd & mld <<bd s5>> ) but just to implment functions of the assiment and other type like timestamp ...;
+Etudiant + Filiere of tp 8;
+
+create table Users( -- to handle users
+   id int auto_increment not null primary key,
+   nom varchar(30) ,
+   prenom varchar(30),
+   email varchar(60) not null,
+   username varchar(40) not null,
+   password varchar(255) not null
+);
+
+create table Sessions( -- to handle sessions
+   id int auto_increment not null primary key,
+   login varchar(255) not null,
+   token varchar(255) not null,
+   expire int
+)
+k
+create table Tokens( -- to handle token of reset password
+   email varchar(60),
+   token varchar(255) not null primary key,
+   expire int
+)
+
+
+you can use git log cmd to show the progresse of the project;

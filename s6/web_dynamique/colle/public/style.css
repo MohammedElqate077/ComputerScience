@@ -1,0 +1,65 @@
+body {
+    margin: 2cm;
+    margin-top: 0pt;
+    color: #000066;
+}
+
+
+hr {
+    color: brown;
+}
+
+div.top {
+    color: green;
+}
+
+span.top {
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+span.Err {
+    color: red;
+    font-weight: bold;
+}
+
+span.LaDate {
+    background-color: brown;
+
+}
+
+h4 {
+    text-align: right;
+    color: withe;
+    background-color: brown;
+}
+
+table, th, td {
+    border: 1px solid brown;
+}
+
+td {
+    padding: 0.2cm;
+    text-align: center;
+}
+
+div.bas {
+    color: brown;
+    text-align: center;
+}
+
+div.section {
+    background-color: #990000;
+    color: white;
+    font-size: 18px;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    padding: 0.5mm;
+    padding-left: 3mm;
+    font-weight: bold
+}
+
+.register{
+    text-align: center;
+    font-size: 14px;
+}

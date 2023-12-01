@@ -1,0 +1,6 @@
+nom : MOHAMMED 
+groupe : 2
+
+ecrire main.c pour le programe de c
+puis transformer le programe c en programe java avec notion de class et poo
+

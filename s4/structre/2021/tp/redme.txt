@@ -1,0 +1,9 @@
+
+ne renconter aucun problem monsieu
+
+
+
+pour l'objectif de l'exercice :
+
+ est de metrisé et manipuler les problem qui ont plusieur datatype 
+variable en untulison les structure

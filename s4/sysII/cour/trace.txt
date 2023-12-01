@@ -1,0 +1,10 @@
+	 * heloo  de PID 2675 et de PPID 2674
+
+Child => PPID: 2674 PID: 2675
+ ** helloo 0
+	 * heloo  de PID 2674 et de PPID 2670
+
+Parent => PID: 2674
+ *** helloo 1
+Waiting for child process to finish.
+Child process finished.

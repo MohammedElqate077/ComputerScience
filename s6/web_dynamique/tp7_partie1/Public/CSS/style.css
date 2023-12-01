@@ -1,0 +1,12 @@
+td {padding:0.5cm;}
+td.droite {text-align : right}
+td#menu {width: 200px; background-color: #993300; color: white; font-weight:bold;  padding: 5px; padding-top : 2cm; valign: top}
+body {margin : 2cm; margin-top: 0pt; color:#000066;}
+div.section {background-color : #990000; color : white; font-size: 18px; margin-top: 1cm; margin-bottom: 1cm; padding : 0.5mm; padding-left : 3mm;   font-weight : bold}
+.msg {border-width : 1px; border-color: #990000; border-style:groove; padding : 5mm; line-height: 150%; color:#000066; text-align:justify}
+.button {font-weight :bold; color : #990000; text-align : right; text-decoration:none}
+tr.h{background-color : #990000; color : white}
+tr.0 {background-color : #EEEEEE}
+tr.1 {background-color : #DDDDDD}
+.titre {color: #990000; text-align : center; font-size : 16pt; font-family: Georgia, "Times New Roman", Times, serif; }
+.titre2 { text-align : center; font-size : 12pt; font-family: Georgia, "Times New Roman", Times, serif;}
