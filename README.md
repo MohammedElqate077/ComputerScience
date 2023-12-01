@@ -12,4 +12,4 @@ the contents :
   - linux programming :  syscalles ( c ) .... ( s4 )
   - network programming : server / client multithread ( with java ). ( s6 )
   
-  so check them.
+  check them.
