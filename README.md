@@ -1,4 +1,4 @@
-Pratical exercices (td, tp), just the start to understand the basics of the computer science programe ( SCIENCES MATHÉMATIQUES ET INFORMATIQUE )
+Pratical exercices (td, tp), just the start to understand the basics of computer science programe ( SCIENCES MATHÉMATIQUES ET INFORMATIQUE )
 
 the contents : 
   - algorithmes : recursivty, dynamique programming, sort algorithems, complixcity and probleme solving. ( s3 / s4 )
